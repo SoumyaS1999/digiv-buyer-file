@@ -28,8 +28,8 @@ const Footer = () => {
                     <div className="col-12">
                         <div className="d-flex justify-content-center">
                             <Link to={"#"} className="d-flex align-items-center footer__logo">
-                                <img src="/images/logo_white.svg" alt />
-                                <h5>Digiv</h5>
+                                <img src="/images/logon.png" alt />
+                                
                             </Link>
                         </div>
                         <ul className="d-flex justify-content-center gap-3 footer__socal">

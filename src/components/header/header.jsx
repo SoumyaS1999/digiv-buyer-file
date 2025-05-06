@@ -14,8 +14,7 @@ const Header = () => {
                     <div className="d-flex align-items-center justify-content-between">
                         <div>
                             <Link to="/" className="d-flex align-items-center header__bottom_logo">
-                                <img src="/images/logo.svg" alt />
-                                <h5>Digiv</h5>
+                                <img src="/images/logon.png" alt />
                             </Link>
                         </div>
                         <Navbar activeNavbar={activeNavbar} />
